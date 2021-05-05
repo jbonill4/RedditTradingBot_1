@@ -23,7 +23,10 @@ Fill in config.py with your own personal Reddit username API ID/Secret, and Bina
 
 Specify which cryptocurrency you would like to trade. The code is preset to [Bitcoin(BTC)](https://bitcoin.org/en/). In order to edit which coin you would like to trade you must change the values of:
 - **TRADE_SYMBOL**
-- **reddit.subreddit("")**
+- **reddit.subreddit()**
+
+Run program:
+- **python reddittradingbot1.py**
 
 
 
