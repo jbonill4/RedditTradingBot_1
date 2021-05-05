@@ -6,7 +6,7 @@ Bitcoin, based off the overall sentiment of live comments under r/bitcoin
 ## Requirements
 - Must have [PRAW](https://praw.readthedocs.io/en/latest/) installed
 - Must have [TextBlob](https://textblob.readthedocs.io/en/dev/) installed
-- Must have [python-binance](https://textblob.readthedocs.io/en/dev/) installed
+- Must have [python-binance](https://python-binance.readthedocs.io/en/latest/) installed
 - Must have at least [python3.6](https://www.python.org/downloads/) installed 
 - Must have [conda](https://conda.io/projects/conda/en/latest/user-guide/install/windows.html) installed 
 
