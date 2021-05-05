@@ -4,5 +4,5 @@ Live sentiment analysis trading bot that handles cryptocurrencies specifically
 Bitcoin, based off the overall sentiment of live comments under r/bitcoin
 
 ## Requirments
-- Must have PRAW installed
+- Must have [PRAW](https://praw.readthedocs.io/en/latest/) installed
 - 
