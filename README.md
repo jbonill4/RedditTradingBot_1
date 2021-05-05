@@ -21,7 +21,11 @@ Fill in config.py with your own personal Reddit username API ID/Secret, and Bina
 - [How to create Binance API Key](https://www.binance.com/en/support/faq/360002502072)
 - [How to create Reddit API Key](https://github.com/reddit-archive/reddit/wiki/OAuth2)
 
-Specify which cryptocurrency you would like to trade. The code is preset to [Bitcoin(BTC)](https://bitcoin.org/en/)
+Specify which cryptocurrency you would like to trade. The code is preset to [Bitcoin(BTC)](https://bitcoin.org/en/). In order to edit which coin you would like to trade you must change the values of:
+- **TRADE_SYMBOL**
+- **reddit.subreddit("")**
+
+
 
 
 
